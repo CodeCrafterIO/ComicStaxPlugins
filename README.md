@@ -9,8 +9,7 @@
 ### ⚡ Quick Start
 1. Download the latest `.dll` from [Releases]
 2. Place in your ComicStax `Plugins` folder | Or select add plugin from the plugin manager
-3. Launch ComicStax and configure your ComicVine API key
-4. Watch your collection come to life!
+3. Watch your collection come to life!
 
 ### 🔧 For Developers
 - **Clean API**: Well-documented interfaces for creating your own plugins will come in the future

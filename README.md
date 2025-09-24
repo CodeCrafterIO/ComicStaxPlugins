@@ -4,7 +4,7 @@
 
 ## Featured Plugin: ComicVine Metadata Integration
 
-**Automatically enrich your comic collection with rich metadata, covers, and details from the world's largest comic database.**
+**Automatically enrich your comic collection today.**
 
 ### ⚡ Quick Start
 1. Download the latest `.dll` from [Releases]

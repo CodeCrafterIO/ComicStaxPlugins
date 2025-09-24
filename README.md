@@ -6,13 +6,6 @@
 
 **Automatically enrich your comic collection with rich metadata, covers, and details from the world's largest comic database.**
 
-### 🚀 What This Plugin Does
-- **Smart Metadata Fetching**: Automatically identify and tag your comics
-- **High-Resolution Covers**: Download pristine cover art
-- **Complete Series Information**: Plot summaries, character data, creator credits
-- **Batch Processing**: Update entire libraries with one click
-- **Customizable Scraping**: Fine-tune what data gets imported
-
 ### ⚡ Quick Start
 1. Download the latest `.dll` from [Releases]
 2. Place in your ComicStax `Plugins` folder | Or select add plugin from the plugin manager
